@@ -25,19 +25,21 @@
     ~~~git
      git config --global user.name "Nama Anda"
      git config --global user.email "email@example.com"
- ~~~
+    ~~~
 
 Note: untuk melihat apakah sudah terhubung konfigurasi git nya silakan ketik 
-         git config --list
+git config --list
+
  ![][usn.png]
 
    ![](gambar/7.png)
 
 ## Inisialisasi Git Lokal:
    -  Buat direktori baru untuk proyek Anda dan navigasikan ke direktori tersebut menggunakan Git bash. Kemudian, inisialisasi Git di direktori tersebut dengan menjalankan perintah:
-    ~~~ 
+ ~~~ 
      git init
-~~~
+ ~~~
+
  contohnya:
  ![][8.png]
  
@@ -46,7 +48,8 @@ Note: untuk melihat apakah sudah terhubung konfigurasi git nya silakan ketik
    - Jalankan perintah berikut untuk menghubungkan repositori lokal Anda ke repositori GitHub yang telah Anda buat sebelumnya:
 ~~~
      git remote add origin https://github.com/username/nama-repository.git
-   ~~~
+~~~
+
    Ganti username dan nama-repository dengan nama pengguna GitHub Anda dan nama repositori yang Anda buat.kalo dah ada tulisan (master),berarti sudah terhubung ke repositori Githubnya
 contohnya:
 
@@ -54,9 +57,11 @@ contohnya:
 ## Tambahkan file ke repositori: 
    - Perintah ini akan menambahkan semua file di direktori saat ini ke repositori.
    - Tambahkan file yang ingin Anda simpan di repositori Git dengan menjalankan perintah:
-   ~~~
+     
+~~~
      git add 
 ~~~
+
 contohnya:
 
 ![][10.png]
@@ -75,6 +80,7 @@ Dengan menggunakan `git status`, Kita dapat melihat status dari repository Kita,
 
 
 Berikut Hasilnya :![][11.png]
+
 # GIT PUSH ORIGIN (MASTER)
 
 ![][gambar/12.png]
