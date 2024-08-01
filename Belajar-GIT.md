@@ -77,7 +77,7 @@ Dengan menggunakan `git status`, Kita dapat melihat status dari repository Kita,
 Berikut Hasilnya :![][11.png]
 # GIT PUSH ORIGIN (MASTER)
 
-![][gpo.png]
+![][gambar/12.png]
 
 >[!Penjelasan]
 >`git push origin master` digunakan dalam Git untuk mengunggah (push) perubahan yang ada di branch `master` pada repository lokal ke branch `master` di remote repository yang disebut `origin`.
