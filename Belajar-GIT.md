@@ -17,7 +17,7 @@
    
 ![](gambar/4.png)
 
-7. Setelah buat akun maka akan tampil seperti gambar
+6. Setelah buat akun maka akan tampil seperti gambar
 ![](gambar/5.png)
 
 # Langkah - Langkah
