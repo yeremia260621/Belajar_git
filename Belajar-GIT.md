@@ -21,6 +21,7 @@
    - Login ke akun GitHub Anda.
    - Klik tombol "New" untuk membuat repositori baru.
    - Berikan nama repositori, pilih apakah akan bersifat publik atau privat, lalu klik "Create repository".
+     gambar:
    ![](gambar/6.png)
 
 ## Konfigurasi Git Lokal:
@@ -36,7 +37,8 @@ Note: untuk melihat apakah sudah terhubung konfigurasi git nya silakan ketik
 git config --list
 git config --list
 ~~~
-   ![](gambar/7.png)
+gambar:
+![](gambar/7.png)
 
 ## Inisialisasi Git Lokal:
    -  Buat direktori baru untuk proyek Anda dan navigasikan ke direktori tersebut menggunakan Git bash. Kemudian, inisialisasi Git di direktori tersebut dengan menjalankan perintah:
@@ -44,7 +46,7 @@ git config --list
  git init
  ~~~
 
- contohnya:
+ gambar:
  ![](gambar/8.png)
  
 ## Hubungkan ke Repositori GitHub:
@@ -55,7 +57,7 @@ git config --list
 ~~~
 
    Ganti username dan nama-repository dengan nama pengguna GitHub Anda dan nama repositori yang Anda buat.kalo dah ada tulisan (master),berarti sudah terhubung ke repositori Githubnya
-contohnya:
+gambar:
 ![](gambar/9.png)
 
 ## Tambahkan file ke repositori: 
@@ -66,7 +68,7 @@ contohnya:
      git add 
 ~~~
 
-contohnya:
+gambar:
 ![](gambar/10.png)
 
 # GIT STATUS
@@ -166,9 +168,9 @@ Berikut Hasilnya :
 
 - **Navigasi Ketiga:**
 
-- Dari direktori `obsidian`, Kita menggunakan perintah `cd BELAJAR_GITHUB` untuk masuk ke dalam sub-direktori `BELAJAR_GITHUB`.  
+- Dari direktori `obsidian`, Kita menggunakan perintah `cd BELAJAR_GITHUB` untuk masuk ke dalam sub-direktori `BELAJAR_GITHUB`.
+gambar: 
 ![](gambar/15.PNG)
 
 ### Kesimpulan
-
 Kita telah menggunakan serangkaian perintah `cd` di Git Bash untuk menavigasi melalui sistem file dari drive `D:`, kemudian ke direktori `obsidian`, dan akhirnya ke direktori `BELAJAR_GITHUB`. Setiap perintah `cd` digunakan untuk berpindah ke direktori yang lebih spesifik dalam hirarki direktori.
