@@ -39,7 +39,7 @@ git config --list
  ~~~
 
  contohnya:
- ![](8.png)
+ ![](gambar/8.png)
  
 ## Hubungkan ke Repositori GitHub:
 
@@ -51,7 +51,7 @@ git config --list
    Ganti username dan nama-repository dengan nama pengguna GitHub Anda dan nama repositori yang Anda buat.kalo dah ada tulisan (master),berarti sudah terhubung ke repositori Githubnya
 contohnya:
 
-![](9.png)
+![](gambar/9.png)
 ## Tambahkan file ke repositori: 
    - Perintah ini akan menambahkan semua file di direktori saat ini ke repositori.
    - Tambahkan file yang ingin Anda simpan di repositori Git dengan menjalankan perintah:
@@ -62,7 +62,7 @@ contohnya:
 
 contohnya:
 
-![](10.png)
+![](gambar/10.png)
 
 # GIT STATUS
 
@@ -78,7 +78,7 @@ Dengan menggunakan `git status`, Kita dapat melihat status dari repository Kita,
 
 
 Berikut Hasilnya :
-![](11.png)
+![](gambar/11.png)
 
 # GIT PUSH ORIGIN (MASTER)
 
