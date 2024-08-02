@@ -13,9 +13,11 @@
 ![](gambar/3.png)
 
 5. Jika tidak memiliki akun klik tambahkan akun
+
+   
 ![](gambar/4.png)
 
-6. Setelah buat akun maka akan tampil seperti gambar
+7. Setelah buat akun maka akan tampil seperti gambar
 ![](gambar/5.png)
 
 # Langkah - Langkah
