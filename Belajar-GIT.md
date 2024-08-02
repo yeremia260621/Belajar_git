@@ -1,26 +1,16 @@
-<<<<<<< HEAD
- # Login Akun Github
-1. Buka aplikasi github di browser 
-=======
 # Login Akun Github
 1. Buka aplikasi github di browser
-
->>>>>>> fcfbdc3dfcef017a6c38e961eddfa6c6c6957b0a
 ![](gambar/1.png)
 
-3. Lalu lakukan sign up pada github
- 
+2. Lalu lakukan sign up pada github
 ![](gambar/2.png)
  
 3. Jika sudah memiliki akun langsung masukkan password dan username yang ada
-
 ![](gambar/3.png)
 
-<<<<<<< HEAD
 4. Jika tidak memiliki akun klik tambahkan akun
-=======
+
 5. Jika tidak memiliki akun klik tambahkan akun
->>>>>>> fcfbdc3dfcef017a6c38e961eddfa6c6c6957b0a
 
 ![](gambar/4.png)
 
@@ -46,12 +36,10 @@
      ~~~
 
 Note: untuk melihat apakah sudah terhubung konfigurasi git nya silakan ketik 
-<<<<<<< HEAD
- git config --list
-=======
+~~~git
 git config --list
->>>>>>> fcfbdc3dfcef017a6c38e961eddfa6c6c6957b0a
-
+git config --list
+~~~
    ![](gambar/7.png)
 
 ## Inisialisasi Git Lokal:
@@ -61,10 +49,6 @@ git config --list
  ~~~
 
  contohnya:
-<<<<<<< HEAD
-=======
- 
->>>>>>> fcfbdc3dfcef017a6c38e961eddfa6c6c6957b0a
  ![](gambar/8.png)
  
 ## Hubungkan ke Repositori GitHub:
@@ -76,12 +60,8 @@ git config --list
 
    Ganti username dan nama-repository dengan nama pengguna GitHub Anda dan nama repositori yang Anda buat.kalo dah ada tulisan (master),berarti sudah terhubung ke repositori Githubnya
 contohnya:
-
 ![](gambar/9.png)
-<<<<<<< HEAD
-=======
 
->>>>>>> fcfbdc3dfcef017a6c38e961eddfa6c6c6957b0a
 ## Tambahkan file ke repositori: 
    - Perintah ini akan menambahkan semua file di direktori saat ini ke repositori.
    - Tambahkan file yang ingin Anda simpan di repositori Git dengan menjalankan perintah:
@@ -91,7 +71,6 @@ contohnya:
 ~~~
 
 contohnya:
-
 ![](gambar/10.png)
 
 # GIT STATUS
@@ -104,17 +83,10 @@ contohnya:
 3. **File yang belum dilacak:** Menunjukkan file-file baru yang belum ditambahkan ke dalam repository.
 
 Dengan menggunakan `git status`, Kita dapat melihat status dari repository Kita, memahami apa yang telah berubah, dan memutuskan tindakan selanjutnya, seperti menambahkan file ke staging area atau melakukan commit perubahan.
-
-<<<<<<< HEAD
-Berikut Hasilnya :![](gambar/11.png)
-=======
-Berikut Hasilnya :
-
+Berikut Hasilnya:
 ![](gambar/11.png)
 
->>>>>>> fcfbdc3dfcef017a6c38e961eddfa6c6c6957b0a
 # GIT PUSH ORIGIN (MASTER)
-
 ![](gambar/12.PNG)
 
 >[!Penjelasan]
@@ -145,28 +117,17 @@ Jika Benar, Langkah Selanjutnya kita menggunakan perintah `git status` membantu 
 Perintah `ls` sangat fleksibel dan memiliki banyak opsi lain yang bisa digunakan untuk mengatur tampilan daftar isi direktori sesuai dengan kebutuhan pengguna.
 
 Berikut Hasilnya :
-<<<<<<< HEAD
-=======
-
->>>>>>> fcfbdc3dfcef017a6c38e961eddfa6c6c6957b0a
 ![](gambar/13.PNG)
 
 # CD 
-
 >[!Penjelasan]
 >Penjelasan `cd`:
 >- **`cd`** adalah singkatan dari "change directory," yang berarti mengubah direktori.
 >- - Perintah ini memungkinkan pengguna untuk berpindah dari satu direktori ke direktori lain dalam sistem file.
 
-
-
 Dengan menggunakan perintah `cd` di Git Bash, Kita dapat dengan mudah menavigasi melalui berbagai direktori dalam sistem file Kita. Ini sangat berguna untuk mengelola proyek, mengakses file, dan menja lankan skrip atau program di lokasi yang berbeda.
 
 Berikut Hasilnya :
-<<<<<<< HEAD
-=======
-
->>>>>>> fcfbdc3dfcef017a6c38e961eddfa6c6c6957b0a
 ![](gambar/14.PNG)
 
 ### Langkah-langkah yang Dijalankan
@@ -209,14 +170,9 @@ Berikut Hasilnya :
 
 - **Navigasi Ketiga:**
 
-- Dari direktori `obsidian`, Kita menggunakan perintah `cd BELAJAR_GITHUB` untuk masuk ke dalam sub-direktori `BELAJAR_GITHUB`.
-<<<<<<< HEAD
-![](15.png)
-=======
-  
+- Dari direktori `obsidian`, Kita menggunakan perintah `cd BELAJAR_GITHUB` untuk masuk ke dalam sub-direktori `BELAJAR_GITHUB`.  
 ![](gambar/15.PNG)
 
->>>>>>> fcfbdc3dfcef017a6c38e961eddfa6c6c6957b0a
 ### Kesimpulan
 
 Kita telah menggunakan serangkaian perintah `cd` di Git Bash untuk menavigasi melalui sistem file dari drive `D:`, kemudian ke direktori `obsidian`, dan akhirnya ke direktori `BELAJAR_GITHUB`. Setiap perintah `cd` digunakan untuk berpindah ke direktori yang lebih spesifik dalam hirarki direktori.
