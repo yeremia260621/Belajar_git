@@ -1,8 +1,14 @@
 # Login Akun Github
 1. Buka aplikasi github di browser
+
+
+
+
+
+
 ![](gambar/1.png)
 
-3. Lalu lakukan sign up pada github
+2. Lalu lakukan sign up pada github
 ![](gambar/2.png)
  
 3. Jika sudah memiliki akun langsung masukkan password dan username yang ada
