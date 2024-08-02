@@ -22,15 +22,13 @@
 ## Konfigurasi Git Lokal:
    - Buka git di laptop/komputer anda.
    - Jalankan perintah berikut untuk mengatur identitas Anda:
-    ~~~git
+     ~~~git
      git config --global user.name "Nama Anda"
      git config --global user.email "email@example.com"
-    ~~~
+     ~~~
 
 Note: untuk melihat apakah sudah terhubung konfigurasi git nya silakan ketik 
 git config --list
-
- ![][usn.png]
 
    ![](gambar/7.png)
 
@@ -41,7 +39,7 @@ git config --list
  ~~~
 
  contohnya:
- ![][8.png]
+ ![](8.png)
  
 ## Hubungkan ke Repositori GitHub:
 
@@ -53,7 +51,7 @@ git config --list
    Ganti username dan nama-repository dengan nama pengguna GitHub Anda dan nama repositori yang Anda buat.kalo dah ada tulisan (master),berarti sudah terhubung ke repositori Githubnya
 contohnya:
 
-![][9.png]
+![](9.png)
 ## Tambahkan file ke repositori: 
    - Perintah ini akan menambahkan semua file di direktori saat ini ke repositori.
    - Tambahkan file yang ingin Anda simpan di repositori Git dengan menjalankan perintah:
@@ -64,7 +62,7 @@ contohnya:
 
 contohnya:
 
-![][10.png]
+![](10.png)
 
 # GIT STATUS
 
@@ -79,11 +77,12 @@ Dengan menggunakan `git status`, Kita dapat melihat status dari repository Kita,
 
 
 
-Berikut Hasilnya :![][11.png]
+Berikut Hasilnya :
+![](11.png)
 
 # GIT PUSH ORIGIN (MASTER)
 
-![][gambar/12.png]
+![](gambar/12.png)
 
 >[!Penjelasan]
 >`git push origin master` digunakan dalam Git untuk mengunggah (push) perubahan yang ada di branch `master` pada repository lokal ke branch `master` di remote repository yang disebut `origin`.
@@ -112,7 +111,7 @@ Jika Benar, Langkah Selanjutnya kita menggunakan perintah `git status` membantu 
 
 Perintah `ls` sangat fleksibel dan memiliki banyak opsi lain yang bisa digunakan untuk mengatur tampilan daftar isi direktori sesuai dengan kebutuhan pengguna.
 
-Berikut Hasilnya :![][/gambar13.png]
+Berikut Hasilnya :![](gambar/13.png)
 
 # CD 
 
@@ -125,7 +124,7 @@ Berikut Hasilnya :![][/gambar13.png]
 
 Dengan menggunakan perintah `cd` di Git Bash, Kita dapat dengan mudah menavigasi melalui berbagai direktori dalam sistem file Kita. Ini sangat berguna untuk mengelola proyek, mengakses file, dan menja lankan skrip atau program di lokasi yang berbeda.
 
-Berikut Hasilnya :![][gambar/14.png]
+Berikut Hasilnya :![](gambar/14.png)
 
 ### Langkah-langkah yang Dijalankan
 
@@ -168,6 +167,7 @@ Berikut Hasilnya :![][gambar/14.png]
 - **Navigasi Ketiga:**
 
 - Dari direktori `obsidian`, Kita menggunakan perintah `cd BELAJAR_GITHUB` untuk masuk ke dalam sub-direktori `BELAJAR_GITHUB`.
+![](gambar/15.png)
 
 ### Kesimpulan
 
