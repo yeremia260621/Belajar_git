@@ -92,7 +92,7 @@ Berikut Hasilnya :
 
 # GIT PUSH ORIGIN (MASTER)
 
-![](gambar/12.png)
+![](gambar/12.PNG)
 
 >[!Penjelasan]
 >`git push origin master` digunakan dalam Git untuk mengunggah (push) perubahan yang ada di branch `master` pada repository lokal ke branch `master` di remote repository yang disebut `origin`.
@@ -123,7 +123,7 @@ Perintah `ls` sangat fleksibel dan memiliki banyak opsi lain yang bisa digunakan
 
 Berikut Hasilnya :
 
-![](gambar/13.png)
+![](gambar/13.PNG)
 
 # CD 
 
@@ -138,7 +138,7 @@ Dengan menggunakan perintah `cd` di Git Bash, Kita dapat dengan mudah menavigasi
 
 Berikut Hasilnya :
 
-![](gambar/14.png)
+![](gambar/14.PNG)
 
 ### Langkah-langkah yang Dijalankan
 
@@ -182,7 +182,7 @@ Berikut Hasilnya :
 
 - Dari direktori `obsidian`, Kita menggunakan perintah `cd BELAJAR_GITHUB` untuk masuk ke dalam sub-direktori `BELAJAR_GITHUB`.
   
-![](gambar/15.png)
+![](gambar/15.PNG)
 
 ### Kesimpulan
 
