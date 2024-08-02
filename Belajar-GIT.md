@@ -1,16 +1,24 @@
 # Login Akun Github
-1. Buka aplikasi github di browser 
+1. Buka aplikasi github di browser
+
 ![](gambar/1.png)
-2. Lalu lakukan sign up pada github
+
+3. Lalu lakukan sign up pada github
  
 ![](gambar/2.png)
  
 3. Jika sudah memiliki akun langsung masukkan password dan username yang ada
+
 ![](gambar/3.png)
-4. Jika tidak memiliki akun klik tambahkan akun
+
+5. Jika tidak memiliki akun klik tambahkan akun
+
 ![](gambar/4.png)
-5. Setelah buat akun maka akan tampil seperti gambar
+
+6. Setelah buat akun maka akan tampil seperti gambar
+
 ![](gambar/5.png)
+
 # Langkah - Langkah
 ## Buat Repositori GitHub Baru:
    - Login ke akun GitHub Anda.
@@ -22,6 +30,7 @@
 ## Konfigurasi Git Lokal:
    - Buka git di laptop/komputer anda.
    - Jalankan perintah berikut untuk mengatur identitas Anda:
+     
      ~~~git
      git config --global user.name "Nama Anda"
      git config --global user.email "email@example.com"
@@ -39,6 +48,7 @@ git config --list
  ~~~
 
  contohnya:
+ 
  ![](gambar/8.png)
  
 ## Hubungkan ke Repositori GitHub:
