@@ -10,6 +10,8 @@
 ![](gambar/2.png)
  
 3. Jika sudah memiliki akun langsung masukkan password dan username yang ada
+
+
 ![](gambar/3.png)
 
 4. Jika tidak memiliki akun klik tambahkan akun
