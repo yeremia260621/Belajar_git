@@ -51,6 +51,8 @@ git config --list
  ~~~
 
  contohnya:
+
+ 
  ![](gambar/8.png)
  
 ## Hubungkan ke Repositori GitHub:
