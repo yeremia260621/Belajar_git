@@ -32,8 +32,8 @@
    - Jalankan perintah berikut untuk mengatur identitas Anda:
      
      ~~~git
-     git config --global user.name "Nama Anda"
-     git config --global user.email "email@example.com"
+git config --global user.name "Nama Anda"
+git config --global user.email "email@example.com"
      ~~~
 
 Note: untuk melihat apakah sudah terhubung konfigurasi git nya silakan ketik 
@@ -59,7 +59,7 @@ git config --list
 
    - Jalankan perintah berikut untuk menghubungkan repositori lokal Anda ke repositori GitHub yang telah Anda buat sebelumnya:
 ~~~
-     git remote add origin https://github.com/username/nama-repository.git
+git remote add origin https://github.com/username/nama-repository.git
 ~~~
 
    Ganti username dan nama-repository dengan nama pengguna GitHub Anda dan nama repositori yang Anda buat.kalo dah ada tulisan (master),berarti sudah terhubung ke repositori Githubnya
@@ -71,7 +71,7 @@ git config --list
    - Tambahkan file yang ingin Anda simpan di repositori Git dengan menjalankan perintah:
      
 ~~~
-     git add 
+git add 
 ~~~
 
 contohnya:
@@ -155,7 +155,7 @@ Berikut Hasilnya :
 
 1. **Pindah ke drive `C:`**
 `cd c:`
-- **Penjelasan**: Perintah ini digunakan untuk berpindah ke drive `D:` di komputer Kita.
+- **Penjelasan**: Perintah ini digunakan untuk berpindah ke drive `C:` di komputer Kita.
 
 - **Output**:
 `ASUS@Yeremia MINGW64 /c`
@@ -164,10 +164,10 @@ Berikut Hasilnya :
 
 `cd obsidian`
 
-- **Penjelasan**: Perintah ini digunakan untuk berpindah ke direktori `obsidian` yang berada di dalam drive `D:`.
+- **Penjelasan**: Perintah ini digunakan untuk berpindah ke direktori `obsidian` yang berada di dalam drive `C:`.
 
 - **Output**:
-- `ASUS@Yeremia MINGW64 /d/obsidian`
+- `ASUS@Yeremia MINGW64 /c/obsidian`
 
 3. **Pindah ke direktori `BELAJAR_GITHUB` di dalam direktori `obsidian`**
 
@@ -177,17 +177,17 @@ Berikut Hasilnya :
 
 - **Output**:
 
-`ASUS@Yeremia MINGW64 /d/obsidian/BELAJAR_GITHUB`
+`ASUS@Yeremia MINGW64 /c/obsidian/BELAJAR_GITHUB`
 ### Keseluruhan Proses
 
 - **Navigasi Awal:**
 
  Kita memulai di home directory (direktori awal) pada Git Bash.
- Perintah `cd d:` digunakan untuk berpindah dari home directory ke drive `D:`.
+ Perintah `cd c:` digunakan untuk berpindah dari home directory ke drive `C:`.
 
 - **Navigasi Kedua:**
 
-- Setelah berada di drive `D:`, Kita menggunakan perintah `cd obsidian` untuk masuk ke dalam direktori `obsidian` yang ada di drive `D:`.
+- Setelah berada di drive `C:`, Kita menggunakan perintah `cd obsidian` untuk masuk ke dalam direktori `obsidian` yang ada di drive `C:`.
 
 - **Navigasi Ketiga:**
 
