@@ -203,7 +203,7 @@ Berikut Hasilnya :
   contohnya:
 
   
-  ![](gambar/15.png)
+![](gambar/15.png)
   
 
 ### Kesimpulan
