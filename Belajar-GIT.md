@@ -11,29 +11,25 @@
 4. Jika tidak memiliki akun klik tambahkan akun
 
 5. Jika tidak memiliki akun klik tambahkan akun
-
 ![](gambar/4.png)
 
 6. Setelah buat akun maka akan tampil seperti gambar
-
 ![](gambar/5.png)
 
 # Langkah - Langkah
 ## Buat Repositori GitHub Baru:
    - Login ke akun GitHub Anda.
    - Klik tombol "New" untuk membuat repositori baru.
-   gambar
    - Berikan nama repositori, pilih apakah akan bersifat publik atau privat, lalu klik "Create repository".
    ![](gambar/6.png)
 
 ## Konfigurasi Git Lokal:
    - Buka git di laptop/komputer anda.
    - Jalankan perintah berikut untuk mengatur identitas Anda:
-     
-     ~~~git
-     git config --global user.name "Nama Anda"
-     git config --global user.email "email@example.com"
-     ~~~
+~~~git
+git config --global user.name "Nama Anda"
+git config --global user.email "email@example.com"
+~~~
 
 Note: untuk melihat apakah sudah terhubung konfigurasi git nya silakan ketik 
 ~~~git
@@ -45,7 +41,7 @@ git config --list
 ## Inisialisasi Git Lokal:
    -  Buat direktori baru untuk proyek Anda dan navigasikan ke direktori tersebut menggunakan Git bash. Kemudian, inisialisasi Git di direktori tersebut dengan menjalankan perintah:
  ~~~ 
-     git init
+ git init
  ~~~
 
  contohnya:
