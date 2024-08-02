@@ -52,6 +52,7 @@ git config --list
 contohnya:
 
 ![](gambar/9.png)
+
 ## Tambahkan file ke repositori: 
    - Perintah ini akan menambahkan semua file di direktori saat ini ke repositori.
    - Tambahkan file yang ingin Anda simpan di repositori Git dengan menjalankan perintah:
@@ -75,9 +76,8 @@ contohnya:
 
 Dengan menggunakan `git status`, Kita dapat melihat status dari repository Kita, memahami apa yang telah berubah, dan memutuskan tindakan selanjutnya, seperti menambahkan file ke staging area atau melakukan commit perubahan.
 
-
-
 Berikut Hasilnya :
+
 ![](gambar/11.png)
 
 # GIT PUSH ORIGIN (MASTER)
@@ -111,7 +111,9 @@ Jika Benar, Langkah Selanjutnya kita menggunakan perintah `git status` membantu 
 
 Perintah `ls` sangat fleksibel dan memiliki banyak opsi lain yang bisa digunakan untuk mengatur tampilan daftar isi direktori sesuai dengan kebutuhan pengguna.
 
-Berikut Hasilnya :![](gambar/13.png)
+Berikut Hasilnya :
+
+![](gambar/13.png)
 
 # CD 
 
@@ -124,7 +126,9 @@ Berikut Hasilnya :![](gambar/13.png)
 
 Dengan menggunakan perintah `cd` di Git Bash, Kita dapat dengan mudah menavigasi melalui berbagai direktori dalam sistem file Kita. Ini sangat berguna untuk mengelola proyek, mengakses file, dan menja lankan skrip atau program di lokasi yang berbeda.
 
-Berikut Hasilnya :![](gambar/14.png)
+Berikut Hasilnya :
+
+![](gambar/14.png)
 
 ### Langkah-langkah yang Dijalankan
 
@@ -167,6 +171,7 @@ Berikut Hasilnya :![](gambar/14.png)
 - **Navigasi Ketiga:**
 
 - Dari direktori `obsidian`, Kita menggunakan perintah `cd BELAJAR_GITHUB` untuk masuk ke dalam sub-direktori `BELAJAR_GITHUB`.
+  
 ![](gambar/15.png)
 
 ### Kesimpulan
