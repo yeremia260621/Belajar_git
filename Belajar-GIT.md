@@ -97,7 +97,10 @@ Berikut Hasilnya :
 ![](gambar/11.png)
 
 # GIT PUSH ORIGIN (MASTER)
-![](gambar/12.PNG)
+
+
+![](gambar/12.png)
+
 
 >[!Penjelasan]
 >`git push origin master` digunakan dalam Git untuk mengunggah (push) perubahan yang ada di branch `master` pada repository lokal ke branch `master` di remote repository yang disebut `origin`.
@@ -127,6 +130,8 @@ Jika Benar, Langkah Selanjutnya kita menggunakan perintah `git status` membantu 
 Perintah `ls` sangat fleksibel dan memiliki banyak opsi lain yang bisa digunakan untuk mengatur tampilan daftar isi direktori sesuai dengan kebutuhan pengguna.
 
 Berikut Hasilnya :
+
+
 ![](gambar/13.png)
 
 # CD 
@@ -141,18 +146,21 @@ Berikut Hasilnya :
 Dengan menggunakan perintah `cd` di Git Bash, Kita dapat dengan mudah menavigasi melalui berbagai direktori dalam sistem file Kita. Ini sangat berguna untuk mengelola proyek, mengakses file, dan menja lankan skrip atau program di lokasi yang berbeda.
 
 Berikut Hasilnya :
+
+
 ![](gambar/14.png)
+
 
 ### Langkah-langkah yang Dijalankan
 
-1. **Pindah ke drive `D:`**
-`cd d:`
+1. **Pindah ke drive `C:`**
+`cd c:`
 - **Penjelasan**: Perintah ini digunakan untuk berpindah ke drive `D:` di komputer Kita.
 
 - **Output**:
-`ASUS@Yeremia MINGW64 /d`
+`ASUS@Yeremia MINGW64 /c`
 
-2. **Pindah ke direktori `obsidian` di dalam drive `D:`**
+2. **Pindah ke direktori `obsidian` di dalam drive `C:`**
 
 `cd obsidian`
 
@@ -185,7 +193,10 @@ Berikut Hasilnya :
 
 - Dari direktori `obsidian`, Kita menggunakan perintah `cd BELAJAR_GITHUB` untuk masuk ke dalam sub-direktori `BELAJAR_GITHUB`.
   contohnya:
+
+  
   ![](gambar/15.png)
+  
 
 ### Kesimpulan
 
