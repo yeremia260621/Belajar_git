@@ -150,7 +150,7 @@ Berikut Hasilnya :
 - **Penjelasan**: Perintah ini digunakan untuk berpindah ke drive `D:` di komputer Kita.
 
 - **Output**:
-`ASUS@Fahryy MINGW64 /d`
+`ASUS@Yeremia MINGW64 /d`
 
 2. **Pindah ke direktori `obsidian` di dalam drive `D:`**
 
@@ -159,7 +159,7 @@ Berikut Hasilnya :
 - **Penjelasan**: Perintah ini digunakan untuk berpindah ke direktori `obsidian` yang berada di dalam drive `D:`.
 
 - **Output**:
-- `ASUS@Fahryy MINGW64 /d/obsidian`
+- `ASUS@Yeremia MINGW64 /d/obsidian`
 
 3. **Pindah ke direktori `BELAJAR_GITHUB` di dalam direktori `obsidian`**
 
@@ -169,7 +169,7 @@ Berikut Hasilnya :
 
 - **Output**:
 
-`ASUS@Fahryy MINGW64 /d/obsidian/BELAJAR_GITHUB`
+`ASUS@Yeremia MINGW64 /d/obsidian/BELAJAR_GITHUB`
 ### Keseluruhan Proses
 
 - **Navigasi Awal:**
