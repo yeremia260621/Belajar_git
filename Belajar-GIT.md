@@ -9,15 +9,15 @@
    
 ![](gambar/2.png)
  
-4. Jika sudah memiliki akun langsung masukkan password dan username yang ada
+3. Jika sudah memiliki akun langsung masukkan password dan username yang ada
 ![](gambar/3.png)
 
-5. Jika tidak memiliki akun klik tambahkan akun
+4. Jika tidak memiliki akun klik tambahkan akun
 
    
 ![](gambar/4.png)
 
-6. Setelah buat akun maka akan tampil seperti gambar
+5. Setelah buat akun maka akan tampil seperti gambar
 ![](gambar/5.png)
 
 # Langkah - Langkah
