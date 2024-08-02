@@ -20,6 +20,8 @@
 ![](gambar/4.png)
 
 5. Setelah buat akun maka akan tampil seperti gambar
+
+
 ![](gambar/5.png)
 
 # Langkah - Langkah
@@ -27,16 +29,18 @@
    - Login ke akun GitHub Anda.
    - Klik tombol "New" untuk membuat repositori baru.
    - Berikan nama repositori, pilih apakah akan bersifat publik atau privat, lalu klik "Create repository".
+   
+   
    ![](gambar/6.png)
 
 ## Konfigurasi Git Lokal:
    - Buka git di laptop/komputer anda.
    - Jalankan perintah berikut untuk mengatur identitas Anda:
      
-     ~~~git
+~~~git
 git config --global user.name "Nama Anda"
 git config --global user.email "email@example.com"
-     ~~~
+~~~
 
 Note: untuk melihat apakah sudah terhubung konfigurasi git nya silakan ketik 
 ~~~git
@@ -44,12 +48,12 @@ git config --list
 git config --list
 ~~~
 
-   ![](gambar/7.png)
+![](gambar/7.png)
 
 ## Inisialisasi Git Lokal:
    -  Buat direktori baru untuk proyek Anda dan navigasikan ke direktori tersebut menggunakan Git bash. Kemudian, inisialisasi Git di direktori tersebut dengan menjalankan perintah:
  ~~~ 
-     git init
+git init
  ~~~
 
  contohnya:
@@ -66,6 +70,7 @@ git remote add origin https://github.com/username/nama-repository.git
 
    Ganti username dan nama-repository dengan nama pengguna GitHub Anda dan nama repositori yang Anda buat.kalo dah ada tulisan (master),berarti sudah terhubung ke repositori Githubnya
    contohnya:
+
    ![](gambar/9.png)
    
 ## Tambahkan file ke repositori: 
@@ -91,6 +96,7 @@ contohnya:
 
 Dengan menggunakan `git status`, Kita dapat melihat status dari repository Kita, memahami apa yang telah berubah, dan memutuskan tindakan selanjutnya, seperti menambahkan file ke staging area atau melakukan commit perubahan.
 Berikut Hasilnya :
+
 ![](gambar/11.png)
 
 Berikut Hasilnya :
