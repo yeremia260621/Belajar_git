@@ -127,7 +127,7 @@ Jika Benar, Langkah Selanjutnya kita menggunakan perintah `git status` membantu 
 Perintah `ls` sangat fleksibel dan memiliki banyak opsi lain yang bisa digunakan untuk mengatur tampilan daftar isi direktori sesuai dengan kebutuhan pengguna.
 
 Berikut Hasilnya :
-![](gambar/13.PNG)
+![](gambar/13.png)
 
 # CD 
 
@@ -141,7 +141,7 @@ Berikut Hasilnya :
 Dengan menggunakan perintah `cd` di Git Bash, Kita dapat dengan mudah menavigasi melalui berbagai direktori dalam sistem file Kita. Ini sangat berguna untuk mengelola proyek, mengakses file, dan menja lankan skrip atau program di lokasi yang berbeda.
 
 Berikut Hasilnya :
-![](gambar/14.PNG)
+![](gambar/14.png)
 
 ### Langkah-langkah yang Dijalankan
 
@@ -185,7 +185,7 @@ Berikut Hasilnya :
 
 - Dari direktori `obsidian`, Kita menggunakan perintah `cd BELAJAR_GITHUB` untuk masuk ke dalam sub-direktori `BELAJAR_GITHUB`.
   contohnya:
-![](gambar/15.PNG)
+  ![](gambar/15.png)
 
 ### Kesimpulan
 
